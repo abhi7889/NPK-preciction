@@ -5,7 +5,7 @@ from time import sleep
 
 class BestTimeToFertilize:
     __BASE_URL = "https://api.weatherbit.io/v2.0/forecast/daily?"
-    __API_KEY = "e15bb777d6ea4bb4bfa160d519b81bd7"
+    __API_KEY = "cf3db8ed310c4c9780dee9df4a0a4346"
     
     
     def __init__(self, city_name = 'Bangalore', state_name = 'Karnataka', days = 7):
